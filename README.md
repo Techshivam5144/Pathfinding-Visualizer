@@ -1,5 +1,7 @@
-# Pathfinding-Visualizer
+# Pathfinding-Visualizer:
 A Python-based Pathfinding Visualizer built with Tkinter to demonstrate popular search algorithms with live animations.
+
+
 ✨ Features
 Multiple algorithms: BFS, DFS, Dijkstra, A, Greedy BFS*
 
@@ -15,6 +17,9 @@ Shortest path highlighting
 
 Built-in tutorial with “Don’t show again” option
 
+
+
+
 🎮 Controls
 S → Set Start Node (Green)
 
@@ -23,6 +28,8 @@ E → Set End Node (Red)
 W → Place Wall (Black)
 
 Double-click for quick placement/removal
+
+
 
 📷 Screenshot
 <img width="1700" height="881" alt="Screenshot 2025-08-13 083403" src="https://github.com/user-attachments/assets/d153b05d-0d9a-44a7-9168-693bd84b0d33" />
